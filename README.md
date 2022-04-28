@@ -18,7 +18,7 @@ Require the [module](https://github.com/Exunys/Text-To-ASCII/blob/main/Module.lu
 ## Example
 ```lua
 local Data = [=[Hello World!]=]
-print(require(Data, 1)) -- string.char(72, 101, 108, 108, 111, 32, 87, 111, 114, 108, 100, 33)
+print(require(".\\Module")(Data, 1)) -- string.char(72, 101, 108, 108, 111, 32, 87, 111, 114, 108, 100, 33)
 ```
 ## Test
 I have made a test program so for people to test the module & use it officially. You can download it [here](https://github.com/Exunys/Text-To-ASCII/releases/download/txttoascii/Text.To.ASCII.Converter.rar).
