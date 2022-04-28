@@ -21,7 +21,7 @@ local Data = [=[Hello World!]=]
 print(require(".\\Module")(Data, 1)) -- string.char(72, 101, 108, 108, 111, 32, 87, 111, 114, 108, 100, 33)
 ```
 ## Test
-I have made a test program so for people to test the module & use it officially. You can download it [here](https://github.com/Exunys/Text-To-ASCII/releases/download/txttoascii/Text.To.ASCII.Converter.rar).
+### I have made a test program for people to test the module & use it officially. You can download it [here](https://github.com/Exunys/Text-To-ASCII/releases/download/txttoascii/Text.To.ASCII.Converter.rar).
   
 ![image](https://user-images.githubusercontent.com/76539058/165770381-18a44a29-165f-4276-aee7-6702968ccc70.png)
 
